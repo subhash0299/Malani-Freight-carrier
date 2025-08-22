@@ -47,13 +47,13 @@ const Home = () => {
   const testimonials = [
     {
       name: "Rajesh Sharma",
-      company: "ABC Industries",
+      company: "Global Industries",
       text: "Outstanding service! Their team ensured our goods reached safely and on time.",
       rating: 5
     },
     {
       name: "Priya Patel",
-      company: "XYZ Manufacturing",
+      company: "Zeel Manufacturing",
       text: "Reliable and professional. We've been using their services for over 2 years.",
       rating: 5
     }
